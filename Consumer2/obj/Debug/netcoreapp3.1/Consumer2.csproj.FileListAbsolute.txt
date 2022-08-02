@@ -1,0 +1,4 @@
+D:\WebProject\DummyApps\Kafka Excersize\Kafka1\Start-with-Kafka-DotNetCore\Consumer2\obj\Debug\netcoreapp3.1\Consumer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProject\DummyApps\Kafka Excersize\Kafka1\Start-with-Kafka-DotNetCore\Consumer2\obj\Debug\netcoreapp3.1\Consumer2.AssemblyInfoInputs.cache
+D:\WebProject\DummyApps\Kafka Excersize\Kafka1\Start-with-Kafka-DotNetCore\Consumer2\obj\Debug\netcoreapp3.1\Consumer2.AssemblyInfo.cs
+D:\WebProject\DummyApps\Kafka Excersize\Kafka1\Start-with-Kafka-DotNetCore\Consumer2\obj\Debug\netcoreapp3.1\Consumer2.csproj.CoreCompileInputs.cache

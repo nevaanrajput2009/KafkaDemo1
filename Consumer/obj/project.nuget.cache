@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5cebZjyQNx0gd9pQxWwQ5a9zlHwDXqTvzYXFBY0eczIQYaCwnPzrHHs9c7PuTmE6lpRfQiD1PIH9C224q+zzw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GIT Projects\\KafkaDemo1\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saurabh Rajput\\.nuget\\packages\\confluent.kafka\\1.4.0\\confluent.kafka.1.4.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Rajput\\.nuget\\packages\\librdkafka.redist\\1.4.0\\librdkafka.redist.1.4.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Rajput\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Saurabh Rajput\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Saurabh Rajput\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
